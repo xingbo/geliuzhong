@@ -1,0 +1,30 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  {% if page.title %}
+    <title>{{ page.title }} | Xingbo</title>
+  {% else %}
+    <title>Xingbo</title>
+  {% endif %}
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% else %}
+    <meta name="description" content="Dog days are over">
+  {% endif %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="icon" type="image/png" href="/favicon.png">
+
+  <!-- Bootstrap! Host it on local site right now -->
+  <link href="/css/bootstrap.css" rel="stylesheet">
+  <link href="/css/font-awesome.css" rel="stylesheet">
+  <!-- Will be hosted by CDN after stably -->
+  <!--
+  <link href="http://cdn.bootcss.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://cdn.bootcss.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  -->
+
+  <!-- Custom CSS -->
+  {% include style.html %}
+</head>

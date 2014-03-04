@@ -1,4 +1,8 @@
-name: Your New Jekyll Site
+name: GeZhouBa 6th Senior School
 markdown: redcarpet
 pygments: true
-permalink: /:year-:month-:day/:title.html
+permalink: pretty
+
+# Site info
+title: GeZhouBa 6th Seniro School
+description: A memory for our youth
