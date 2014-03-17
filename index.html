@@ -4,20 +4,23 @@ layout: default
 
 <img class="img-responsive one-edge-shadow" src="http://s.cn.bing.net/az/hprichbg/rb/MontedaRochaDam_ZH-CN8975168542_1366x768.jpg" alt="5 Guitarists">
 
+
 <nav class="stream-tabs">
-  <!-- Visible only on Desktop & Tablets -->
+  <!-- Visible only on Desktop & Tablets 
   <ul class="nav nav-tabs nav-justified streams hidden-xs">
     <li class="active"><a href="#blog" data-toggle="tab">Blog</a></li>
-    <!--<li><a href="#twitter" data-toggle="tab">Twitter</a></li>
-    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>-->
+    <li><a href="#twitter" data-toggle="tab">Twitter</a></li>
+    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>
   </ul>
+  -->
 
-  <!-- Visible only on Tablets & Mobile -->
+  <!-- Visible only on Tablets & Mobile 
   <ul class="nav nav-tabs streams visible-xs">
     <li class="active"><a href="#blog" data-toggle="tab">Blog</a></li>
-    <!--<li><a href="#twitter" data-toggle="tab">Twitter</a></li>
-    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>-->
+    <li><a href="#twitter" data-toggle="tab">Twitter</a></li>
+    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>
   </ul>
+  -->
 </nav>
 
 <!-- Tab panes -->
@@ -35,13 +38,12 @@ layout: default
         <hr>
         <header class="post-header">
           <h3>{{ post.title }}</h3>
-          <small class="text-muted post-info pull-left"><span><i class="fa fa-calendar"></i></span> {{ post.date | date_to_string }}</small>
-          <small class="text-muted post-info pull-left"><span><i class="fa fa-file-text"></i></span> Article</small>
+          <small class="text-muted post-info pull-left"><span><i class="fa fa-calendar"></i></span> {{ post.date | date_to_string }}</small>          
         </header>
         <br>
 
         <p>{{ post.preview }}</p>
-        <p><a href="{{ post.url }}">Read post <span><i class="fa fa-angle-double-right"></i></span></p>
+        <p><a href="{{ post.url }}">全文 <span><i class="fa fa-angle-double-right"></i></span></p>
       </article>
     {% endfor %}
 
