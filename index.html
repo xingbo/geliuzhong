@@ -8,15 +8,15 @@ layout: default
   <!-- Visible only on Desktop & Tablets -->
   <ul class="nav nav-tabs nav-justified streams hidden-xs">
     <li class="active"><a href="#blog" data-toggle="tab">Blog</a></li>
-    <li><a href="#twitter" data-toggle="tab">Twitter</a></li>
-    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>
+    <!--<li><a href="#twitter" data-toggle="tab">Twitter</a></li>
+    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>-->
   </ul>
 
   <!-- Visible only on Tablets & Mobile -->
   <ul class="nav nav-tabs streams visible-xs">
     <li class="active"><a href="#blog" data-toggle="tab">Blog</a></li>
-    <li><a href="#twitter" data-toggle="tab">Twitter</a></li>
-    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>
+    <!--<li><a href="#twitter" data-toggle="tab">Twitter</a></li>
+    <li><a href="#soundcloud" data-toggle="tab">SoundCloud</a></li>-->
   </ul>
 </nav>
 
@@ -24,10 +24,10 @@ layout: default
 <section class="tab-content">
 
   <!-- Blog -->
-  <div class="tab-pane fade in active fade" id="blog">
+  <div class="tab-pane fade in active" id="blog">
 
     <header>
-      <h1>Posts <small>musings, stories, ideas, and code.</small></h1>
+      <h1>日志 <small></small></h1>
     </header>
 
     {% for post in site.categories['blog'] %}
