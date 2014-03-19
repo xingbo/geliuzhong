@@ -10,3 +10,5 @@ comments: true
 ![]({{ site.url }}/assets/2014-03-19-01.jpg)
 
 ![]({{ site.url }}/assets/2014-03-19-02.jpg)
+
+看看你是否能叫出所有人的名字吧<span><i class="fa fa-smile-o"></i></span>
