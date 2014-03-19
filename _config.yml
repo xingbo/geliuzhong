@@ -3,6 +3,9 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 
+timezone: Asia/Shanghai
+encoding: utf-8
+
 # Site info
 title: GeZhouBa 6th Seniro School
 description: A memory for our youth
