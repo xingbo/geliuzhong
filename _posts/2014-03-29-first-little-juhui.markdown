@@ -15,32 +15,32 @@ comments: true
 
 　　废话不少，该放照片了。每个人我都挑出最好的一张放在下面，看看有没有留住你们那一瞬间的思绪。
 
-##### 小洁
+#### 小洁
 ![]({{ site.url }}/assets/2014-03-29/02.jpg)
 
-##### 教授
+#### 教授
 ![]({{ site.url }}/assets/2014-03-29/03.jpg)
 
-##### 小维
+#### 小维
 ![]({{ site.url }}/assets/2014-03-29/04.jpg)
 
-##### 小熙
+#### 小熙
 ![]({{ site.url }}/assets/2014-03-29/05.jpg)
 
-##### 老农民
+#### 老农民
 ![]({{ site.url }}/assets/2014-03-29/06.jpg)
 
 ##### Angela
 ![]({{ site.url }}/assets/2014-03-29/07.jpg)
 
-##### 张主任
+#### 张主任
 ![]({{ site.url }}/assets/2014-03-29/08.jpg)
 
 ##### Panda
 ![]({{ site.url }}/assets/2014-03-29/09.jpg)　　
 
-##### 整理照片的时候还发现一些好玩的连拍，做成了小动画，很搞笑的哦
-###### 路人帮忙拍的集体照
+#### 整理照片的时候还发现一些好玩的连拍，做成了小动画，很搞笑的哦
+##### 路人帮忙拍的集体照
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="800" height="532" id="Untitled-1" align="middle">
 <param name="allowScriptAccess" value="sameDomain" /> 
 <param name="movie" value="{{ site.url }}/assets/2014-03-29/10.swf" /> 
@@ -49,7 +49,7 @@ comments: true
 <embed src="{{ site.url }}/assets/2014-03-29/10.swf" quality="high" bgcolor="#ffffff" width="800" height="532" name="10" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 </object>
 
-###### 所谓见得了人见不了框，见的了框见不了人
+##### 这就是所谓的看的见人看不见框，看的见框看不见人？
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="800" height="532" id="Untitled-1" align="middle">
 <param name="allowScriptAccess" value="sameDomain" /> 
 <param name="movie" value="{{ site.url }}/assets/2014-03-29/11.swf" /> 
@@ -58,7 +58,7 @@ comments: true
 <embed src="{{ site.url }}/assets/2014-03-29/11.swf" quality="high" bgcolor="#ffffff" width="800" height="532" name="11" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 </object>
 
-###### 看这两个人像不像？
+##### 这两人像不像？
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="800" height="532" id="Untitled-1" align="middle">
 <param name="allowScriptAccess" value="sameDomain" /> 
 <param name="movie" value="{{ site.url }}/assets/2014-03-29/12.swf" /> 
@@ -68,9 +68,9 @@ comments: true
 </object>
 
 
-　　最后是大福利，全套的高清无码未删改原片。分成两个压缩包，一个是相机中的完整原片，格式NEF，体积较大，需要专用看图软件察看，供有PS需求的同学下载。另一个是NEF转JPG格式，外加我手机中唱歌时的图片，体积小些，但也足够清晰了，供想留作纪念的同学下载。这是个很小很小的个人网站，不知道的人是很难搜到这里的，同时压缩包我都加了密码（密码是:微信群的字母全拼_聚会的地点_聚会年份-月份-日期，不明白的私信我），有效期一周，到期删除。所以上镜者应该不用太担心隐私泄露吧。
+　　最后是大福利，全套的高清无码未删改原片。分成两个压缩包，一个是相机中的完整原片，格式NEF，体积较大，需要专用看图软件察看，供有PS需求的同学下载。另一个是NEF转JPG格式，外加我手机中唱歌时的图片，体积小些，但也足够清晰了，供想留作纪念的同学下载。这是个很小很小的个人网站，不知道的人是很难搜到这里的，同时压缩包都有密码（密码是:微信群的字母全拼_聚会的地点_聚会年份-月份-日期，不明白的私信我），有效期一周，到期删除。所以上镜者应该不用担心隐私泄露吧。
 
 * RAW原片格式[[1.6G](http://kuai.xunlei.com/d/kFbwEAJvMgBqYjZT497)]
 * JPG格式[[240M](http://kuai.xunlei.com/d/kFbwEAJZNADBgDZTb69)]
 
-　　最最后，突然想到，这次聚会，最高兴的除了我们之外，想必还有门口那家“酸菜鱼馆”，两天时间一共光顾了三次。
+　　最最后，突然想到，这次聚会，最高兴的除了我们之外，想必还有门口那家“酸菜鱼馆”，两天时间一共光顾了三次啊。
