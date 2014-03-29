@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="img-responsive one-edge-shadow" src="http://s.cn.bing.net/az/hprichbg/rb/MontedaRochaDam_ZH-CN8975168542_1366x768.jpg" alt="5 Guitarists">
+<!--img class="img-responsive one-edge-shadow" src="http://s.cn.bing.net/az/hprichbg/rb/MontedaRochaDam_ZH-CN8975168542_1366x768.jpg" alt="5 Guitarists"-->
 
 <nav class="stream-tabs">
   <!-- Visible only on Desktop & Tablets 
@@ -29,7 +29,7 @@ layout: default
   <div class="tab-pane fade in active" id="blog">
 
     <header>
-      <h1>日志 <small></small></h1>
+      <h1>日志</h1>
     </header>
 
     {% for post in site.categories['blog'] %}
@@ -42,7 +42,7 @@ layout: default
         <br>
 
         <p>{{ post.excerpt }}</p>
-        <p><a href="{{ post.url }}">全文 <span><i class="fa fa-angle-double-right"></i></span></p>
+        <p><a href="{{ post.url }}">全文 <span><i class="fa fa-angle-double-right"></i></span></a></p>
       </article>
     {% endfor %}
 
